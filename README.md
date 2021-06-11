@@ -1,4 +1,4 @@
-# The Summer Tech Forum (Hugo Source)
+# The Summer Tech Forum Web Site (Hugo Source)
 
 Hugo Static Site for the [Summer Tech Forum Conference](https://www.SummerTechForum.com).
 
