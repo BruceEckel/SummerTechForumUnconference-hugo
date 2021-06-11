@@ -1,4 +1,4 @@
-# The Summer Tech Forum (Hugo Source)
+# The Summer Tech Forum Web Site (Hugo Source)
 
 Hugo Static Site for the [Summer Tech Forum Conference](https://www.SummerTechForum.com).
 
@@ -17,13 +17,12 @@ Everything is in markdown so it's easy to add/edit content. If you look at the
 
 ```bash
 git clone https://github.com/BruceEckel/summertechforum-hugo
-# If you want to refresh the theme from its repository:
-cd summertechforum-hugo
-rm -rf themes
-# DOWNLOAD the zip file (don't clone it) from https://github.com/BruceEckel/hugo-material-banner
-# Unzip it to create themes/hugo-material-banner off of summertechforum-hugo
-# (this avoids cloning and submodule problems)
 ```
+
+The theme https://github.com/BruceEckel/hugo-material-banner
+is included in the `themes` subdirectory as a git submodule.
+The theme is *not* automatically updated when the source material
+changes. To update it you must run the appropriate git submodule commands.
 
 ## Development
 
@@ -37,7 +36,7 @@ hugo server
 hugo server
 ```
 
-The build output will be in the `public` folder.
+The build output will be in the `public` folder (which is not stored in the repository).
 
 Deploys automatically by Netlify whenever the Github repo is updated.
 
