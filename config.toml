@@ -1,0 +1,132 @@
+baseurl = "https://www.SummerTechForum.com/"
+languageCode = "en-us"
+title = "Summer Tech Forum Unconference: Self-Organizing Open Spaces in Crested Butte, Colorado August 16-20, 2021"
+theme = "hugo-material-banner"
+metadataformat = "yaml"
+canonifyurls = true
+# Enable Google Analytics by entering your tracking id
+googleAnalytics = ""
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[params]
+	# General information
+	# author = "Bruce Eckel"
+	description = "A Self-Organizing Open-Spaces Unconference"
+
+	logo = "/images/stf-circle-web.jpg"
+	favicon = "images/stf-favicon-32.png"
+	banner_image = "/images/SummerTechForumBanner.jpg"
+
+	permalink = "#"
+
+	# Custom assets
+	custom_css = []
+	custom_js  = []
+
+	# Syntax highlighting theme
+	highlight_css  = ""
+
+  [params.palette]
+  	primary = "indigo"
+  	accent  = "red"
+
+  [params.font]
+  	text = "Ubuntu"
+  	code = "Ubuntu Mono"
+
+
+[social]
+	twitter = ""
+	github  = "/BruceEckel/SummerTechForum-hugo"
+	email   = "mindviewinc@gmail.com"
+
+[[menu.main]]
+	name   = "Overview"
+	url    = "overview"
+	weight = 10
+
+[[menu.main]]
+  name   = "About Crested Butte"
+  url    = "aboutcrestedbutte"
+  weight = 15
+
+[[menu.main]]
+	name   = "Conference Theme"
+	url    = "conferencetheme"
+	weight = 20
+
+[[menu.main]]
+	name   = "Code of Conduct"
+	url    = "codeofconduct"
+	weight = 25
+
+	[[menu.main]]
+	name   = "Open Spaces"
+	url    = "openspaces"
+	weight = 30
+
+[[menu.main]]
+	name   = "Schedule"
+	url    = "schedule"
+	weight = 40
+
+[[menu.main]]
+	name   = "Lightning Talks"
+	url    = "lightningtalks"
+	weight = 50
+
+[[menu.main]]
+	name   = "Hackathon"
+	url    = "hackathon"
+	weight = 60
+
+[[menu.main]]
+	name   = "Morning Activities"
+	url    = "activities"
+	weight = 70
+
+[[menu.main]]
+	name   = "Venue"
+	url    = "venue"
+	weight = 100
+
+[[menu.main]]
+	name   = "Travel"
+	url    = "travel"
+	weight = 110
+
+[[menu.main]]
+	name   = "Lodging"
+	url    = "lodging"
+	weight = 120
+
+[[menu.main]]
+	name   = "Health"
+	url    = "health"
+	weight = 130
+
+[[menu.main]]
+	name   = "Registration"
+	url    = "registration"
+	weight = 140
+
+[[menu.main]]
+	name   = "Contact"
+	url    = "contact"
+	weight = 150
+
+[[menu.main]]
+	name   = "Opening Session"
+	url    = "openingsession"
+	weight = 160
+
+[[menu.main]]
+	name   = "Ideas"
+	url    = "ideas"
+	weight = 170
+
+[blackfriday]
+	smartypants	= true
+	fractions = true
+	smartDashes = true
+	plainIDAnchors = true
