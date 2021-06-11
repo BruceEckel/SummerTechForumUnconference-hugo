@@ -5,7 +5,7 @@ weight: 160
 
 - Open Spaces: creating discussion
   - Post-its, merging similar sessions, moving sessions around
-  - Please update the online board
+  - Photgraph the board when you change it (when it settles down), post to "Board" on Slack (?)
   - Law of two feet
   - Law of two ears and one mouth
   - Invert your participation mode
