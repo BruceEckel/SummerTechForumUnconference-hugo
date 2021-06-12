@@ -17,3 +17,11 @@ One way to find it is to find Camp4 Coffee, then go east a block on the alley
 next to Camp4:
 
 ![Closeup](/images/Closeup.png)
+
+![Camp4Coffee and the Queen of all Saints viewed from 4th Street](/images/Camp4_QAS.png)
+
+Go down the alley between them and you'll come upon the Parish Hall.
+
+![The distinctive copper roof](/images/QAS.png)
+
+![Entry to the Parish Hall](/images/ParishHall.png)
