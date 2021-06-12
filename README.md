@@ -22,6 +22,7 @@ git clone --recurse https://github.com/BruceEckel/summertechforum-hugo
 The `--recurse` flag is necessary because the theme https://github.com/BruceEckel/hugo-material-banner
 is included in the `themes` subdirectory as a *git submodule* (this is required to run a Hugo site on Netlify). 
 Without `--recurse`, the files in the submodule will not be cloned to your local machine.
+
 Because it is a submodule, the theme is *not* automatically updated when the source material
 changes. To update it, run:
 
