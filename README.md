@@ -20,8 +20,9 @@ git clone --recurse https://github.com/BruceEckel/summertechforum-hugo
 ```
 
 The `--recurse` flag is necessary because the theme https://github.com/BruceEckel/hugo-material-banner
-is included in the `themes` subdirectory as a *git submodule*.
-This theme is *not* automatically updated when the source material
+is included in the `themes` subdirectory as a *git submodule*. Without `--recurse`, the files in the submodule
+will not be cloned to your local machine.
+Because it is a submodule, the theme is *not* automatically updated when the source material
 changes. To update it you must run the appropriate git submodule commands.
 
 `local.bat` is a convenience for starting a local server and opening a local web window.
