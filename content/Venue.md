@@ -13,15 +13,20 @@ restaurants.
 
 ![Overview](/images/OverView.png)
 
-One way to find it is to find Camp4 Coffee, then go east a block on the alley
-next to Camp4:
+One way to find the Parish Hall is to first find Camp4 Coffee, then go east a
+block through the alley next to Camp4:
 
 ![Closeup](/images/Closeup.png)
 
-![Camp4Coffee and the Queen of all Saints viewed from 4th Street](/images/Camp4_QAS.png)
+![Camp4Coffee and the Queen of all Saints](/images/Camp4_QAS.jpg)
 
-Go down the alley between them and you'll come upon the Parish Hall.
+Camp4Coffee and the Queen of all Saints viewed from 4th Street.
+Go through the alley between them and you'll come upon the Parish Hall:
 
-![The distinctive copper roof](/images/QAS.png)
+![Entry to the Parish Hall](/images/ParishHall.jpg)
 
-![Entry to the Parish Hall](/images/ParishHall.png)
+Entry to the Parish Hall.
+
+![The distinctive copper roof](/images/QAS.jpg)
+
+The distinctive copper roof.
