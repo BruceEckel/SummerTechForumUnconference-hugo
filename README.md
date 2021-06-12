@@ -23,7 +23,7 @@ The `--recurse` flag is necessary because the theme https://github.com/BruceEcke
 is included in the `themes` subdirectory as a *git submodule* (this is required to run a Hugo site on Netlify). 
 Without `--recurse`, the files in the submodule will not be cloned to your local machine.
 Because it is a submodule, the theme is *not* automatically updated when the source material
-changes. To update it you must run:
+changes. To update it, run:
 
 ```
 git submodule update --remote --merge
