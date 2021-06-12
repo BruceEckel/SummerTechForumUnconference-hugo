@@ -20,25 +20,10 @@ git clone --recurse https://github.com/BruceEckel/summertechforum-hugo
 ```
 
 The `--recurse` flag is necessary because the theme https://github.com/BruceEckel/hugo-material-banner
-is included in the `themes` subdirectory as a git submodule.
-
-The theme is *not* automatically updated when the source material
+is included in the `themes` subdirectory as a *git submodule*.
+This theme is *not* automatically updated when the source material
 changes. To update it you must run the appropriate git submodule commands.
 
-## Development
-
-```bash
-hugo server
-```
-
-## Build
-
-```bash
-hugo server
-```
-
-The build output will be in the `public` folder (which is not stored in the repository).
-
-Deploys automatically by Netlify whenever the Github repo is updated.
-
 `local.bat` is a convenience for starting a local server and opening a local web window.
+
+The live site is deployed automatically by Netlify whenever the Github repo is updated.
