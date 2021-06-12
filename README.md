@@ -23,7 +23,11 @@ The `--recurse` flag is necessary because the theme https://github.com/BruceEcke
 is included in the `themes` subdirectory as a *git submodule*. Without `--recurse`, the files in the submodule
 will not be cloned to your local machine.
 Because it is a submodule, the theme is *not* automatically updated when the source material
-changes. To update it you must run the appropriate git submodule commands.
+changes. To update it you must run:
+
+```
+git submodule update --remote --merge
+```
 
 `local.bat` is a convenience for starting a local server and opening a local web window.
 
