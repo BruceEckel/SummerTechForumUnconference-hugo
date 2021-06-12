@@ -55,6 +55,6 @@ Amazon](https://smile.amazon.com/dp/B004N13VY4/ref=cm_sw_em_r_mt_dp_U_2ESGCb5KHV
 
 7. If you're in distress, there are hyperbaric chambers at the *Sea Level Spa*,
    308 Elk Avenue (the main street). Open 10 a.m. - 8 p.m. If you're really
-   feeling the altitude, don't wait! Also, the urgent care clinic (at the top of
+   feeling the altitude, don't wait! Also, the urgent care clinic (see the top of
    this page) is only three miles away, so if you think you might need that, go
    see them sooner rather than later.

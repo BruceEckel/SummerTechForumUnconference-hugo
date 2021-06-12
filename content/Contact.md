@@ -13,4 +13,4 @@ weight: 150
 - <a href="https://www.gohugo.io" target="_blank">Hugo</a>
 - Using <a href="https://github.com/BruceEckel/hugo-material-banner"target="_blank">a theme</a>
   derived from <a href="http://github.com/digitalcraftsman/hugo-material-docs" target="_blank">Material</a>
-- Deployed using <a href="https://www.netlify.com/">Netlify</a>
+- Deployed using <a href="https://www.netlify.com/" target="_blank">Netlify</a>
