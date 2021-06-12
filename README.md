@@ -16,11 +16,12 @@ Everything is in markdown so it's easy to add/edit content. If you look at the
 ## Setup
 
 ```bash
-git clone https://github.com/BruceEckel/summertechforum-hugo
+git clone --recurse https://github.com/BruceEckel/summertechforum-hugo
 ```
 
-The theme https://github.com/BruceEckel/hugo-material-banner
+The `--recurse` flag is necessary because the theme https://github.com/BruceEckel/hugo-material-banner
 is included in the `themes` subdirectory as a git submodule.
+
 The theme is *not* automatically updated when the source material
 changes. To update it you must run the appropriate git submodule commands.
 
