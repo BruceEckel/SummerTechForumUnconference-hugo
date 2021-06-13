@@ -27,10 +27,11 @@ Organized by Bruce Eckel<br/>
 
 ***
 
-**Developer Retreat**: Includes an optional multi-day post-conference
-Developer Retreat, held at [Evolve Coworking](https://www.evolvework.co/).
-Registration for the conference includes the developer retreat. There is no
-theme; we just work on projects of interest.
+**Effect-Oriented Programming Workshop**: Saturday and Sunday before the
+conference. Optional and free for conference attendees. Based on the
+book-in-progress *Effect-Oriented Programming: Building Reliable Software with
+Scala3 and ZIO2.* The workshop takes place at
+[Evolve CoWorking](https://www.evolvework.co/) and starts at 10am each day.
 
 ***
 
