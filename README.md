@@ -30,6 +30,6 @@ changes. To update it, run:
 git submodule update --remote --merge
 ```
 
-`local.bat` is a convenience for starting a local server and opening a local web window.
+- `local.bat` is a convenience for starting a local server and opening a local web window.
 
-The live site is deployed automatically by Netlify whenever the Github repo is updated.
+- The live site is deployed automatically by Netlify whenever the Github repo is updated.
