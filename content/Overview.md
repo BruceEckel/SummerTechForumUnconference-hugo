@@ -5,7 +5,7 @@ weight: 10
 ---
 
 Organized by Bruce Eckel<br/>
-<span style="font-size:150%">August 16-20, 2021</span>
+<span style="font-size:150%">August 15-19, 2022</span>
 <span style="font-size:75%"><br/>(Formerly The Java Posse Roundup)</span>
 
 - Attendance limited to 45
