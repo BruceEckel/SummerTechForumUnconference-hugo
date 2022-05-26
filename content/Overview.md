@@ -5,7 +5,7 @@ weight: 10
 ---
 
 Organized by Bruce Eckel<br/>
-<span style="font-size:150%">August 16-20, 2021</span>
+<span style="font-size:150%">August 15-19, 2022</span>
 <span style="font-size:75%"><br/>(Formerly The Java Posse Roundup)</span>
 
 - Attendance limited to 45
@@ -15,7 +15,7 @@ Organized by Bruce Eckel<br/>
 - Price: $750
 
 - When scheduling, remember [there are events](/schedule) the afternoon of the
-  15th and the morning of the 21st.
+  14th and the morning of the 20th.
 
 - If you've previously attended a Crested Butte event and need a break on the
   fee, <a href="/contact">make a request</a>. Don't let the fee be the reason
@@ -24,16 +24,6 @@ Organized by Bruce Eckel<br/>
 <div style="text-align:center;font-size:175%;font-weight:bold">
 <a href = "/registration">Registration</a>
 </div>
-
-***
-
-**Effect-Oriented Programming Workshop**: Saturday and Sunday before the
-conference. Optional and free for conference attendees. Based on the
-book-in-progress *Effect-Oriented Programming: Building Reliable Software with
-Scala3 and ZIO2.* The workshop takes place at
-[Evolve CoWorking](https://www.evolvework.co/) and starts at 10am each day.
-
-***
 
 - *I wanted to let you know how much I thoroughly enjoyed the week I spent in Crested Butte for the WTF conference. Thanks for helping to organize such a wonderful conference and bringing together such a great group of people. It was exciting to see how a group left unto themselves, can self organise and set out on a meaningful course. This spirit of the event really resonated with me and I'm looking forward to continuing this journey thoughout the year.* -- Will Mooney
 
