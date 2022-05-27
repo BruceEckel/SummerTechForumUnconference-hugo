@@ -1,6 +1,6 @@
 baseurl = "https://www.SummerTechForum.com/"
 languageCode = "en-us"
-title = "Summer Tech Forum Unconference: Self-Organizing Open Spaces in Crested Butte, Colorado August 16-20, 2021"
+title = "Summer Tech Forum Unconference: Self-Organizing Open Spaces in Crested Butte, Colorado August 15-19, 2022"
 theme = "hugo-material-banner"
 metadataformat = "yaml"
 canonifyurls = true
