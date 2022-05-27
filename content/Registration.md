@@ -3,9 +3,6 @@ title: Registration
 weight: 140
 ---
 
-*Price includes the multi-day developer retreat that occurs directly
-after the conference, at [Evolve Coworking](https://www.evolvework.co/).*
-
 Step 1:
 -------
 
