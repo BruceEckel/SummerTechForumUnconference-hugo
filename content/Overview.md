@@ -27,7 +27,7 @@ Organized by Bruce Eckel<br/>
   fee, <a href="/contact">make a request</a>. Don't let the fee be the reason
   you can't attend.
 -->
-<br/><br/>
+<br/>
 <div style="text-align:center;font-size:175%;font-weight:bold">
 <a href = "/registration">Registration</a>
 </div>
