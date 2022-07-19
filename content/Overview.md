@@ -8,11 +8,16 @@ Organized by Bruce Eckel<br/>
 <span style="font-size:150%">August 15-19, 2022</span>
 <span style="font-size:75%"><br/>(Formerly The Java Posse Roundup)</span>
 
+- **NOTE**: Many companies are still not supporting travel to conferences, so
+  the event this Summer has become a *developer retreat*, which is a smaller and
+  far less formal gathering. It does not have an entrance fee, because we will
+  not be using the Parish Hall as we usually do. In addition, we will not be
+  following the schedule on this site, but will organically be creating
+  discussions, workshops to explore particular topics, and outdoor activities.
+
 - Attendance limited to 45
 
 - Please be fully vaccinated before attending.
-
-- Price: $750
 
 - When scheduling, remember [there are events](/schedule) the afternoon of the
   14th and the morning of the 20th.
