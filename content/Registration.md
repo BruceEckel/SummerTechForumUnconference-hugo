@@ -21,6 +21,7 @@ Join the [Conference Slack channel](https://join.slack.com/t/wtfconf/shared_invi
 You can post questions to the Slack channel, arrange ride sharing, group house
 rentals, etc.
 
+<!--
 Step 3: [Payment](https://link.waveapps.com/9bu7q6-kzgrud)
 ----------------------------------------------------------
-
+-->
