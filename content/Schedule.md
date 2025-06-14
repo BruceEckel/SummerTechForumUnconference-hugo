@@ -24,13 +24,12 @@ have colorful lights on, as well.
 
 ***********************************
 
-> All Conference Sessions, Lightning Talks and the Hackday Showcase Lightning Talks are held at the Center for the Arts (CTA)
+> **All Conference Sessions, Lightning Talks and the Hackday Showcase Lightning Talks are held at the Center for the Arts (CTA)**
 
 Monday
 ------
 
 - **Breakfast** Post your plans on Slack if you want others to join you.
-  There will be coffee and toast bar at Bruce's house starting at 7:45am.
 
 - **9am** CTA King Room \
   Conference Overview \
@@ -52,7 +51,6 @@ Tuesday
 -------
 
 - **Breakfast** Post your plans on Slack if you want others to join you.
-  There will be coffee and toast bar at Bruce's house starting at 7:45am.
 
 - **9-9:50am** Session 3
 
@@ -96,7 +94,6 @@ Thursday
 --------
 
 - **Breakfast** Post your plans on Slack if you want others to join you.
-  There will be coffee and toast bar at Bruce's house starting at 7:45am.
 
 - **9-9:50am** Session 6
 
@@ -120,7 +117,6 @@ Friday
 ------
 
 - **Breakfast** Post your plans on Slack if you want others to join you.
-  There will be coffee and toast bar at Bruce's house starting at 7:45am.
 
 - **9-9:50am** Session 9
 
