@@ -1,16 +1,16 @@
 ---
-title: Morning Activities
+title: Afternoon Activities
 weight: 70
 ---
 
-During conference days (Monday, Tuesday, Thursday and Friday), the mornings are
+During conference days (Monday, Tuesday, Thursday and Friday), the afternoons are
 unscheduled time. There are numerous options. Although these look like pure
 recreation, we have some of our most interesting discussions once the structure
 and constraints are completely removed.
 
 ## **Hiking**
 
-There are numerous hikes available and I often lead some. Here are some basic easy hikes:
+There are many hikes available and I often lead some. Here are some basic easy hikes:
 
 - The Woods Walk, starting at the top (West) end of Maroon Avenue (the street
   just north of Elk Avenue).
@@ -28,7 +28,7 @@ There are numerous hikes available and I often lead some. Here are some basic ea
 - Stand-Up Paddleboarding
 - Cruising around town on a townie bike
 
-## **Morning Workshops**
+## **Afternoon Workshops**
 
 People often spontaneously decide to create their own workshops to investigate a
 particular idea or technology. These can be held at one of the rental houses, in

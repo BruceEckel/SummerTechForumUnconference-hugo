@@ -81,7 +81,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 	weight = 60
 
 [[menu.main]]
-	name   = "Morning Activities"
+	name   = "Afternoon Activities"
 	url    = "activities"
 	weight = 70
 

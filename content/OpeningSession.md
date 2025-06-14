@@ -14,7 +14,7 @@ weight: 160
     you might have scheduled it against something that people really wanted to see,
     it doesn't mean your idea was bad.
 
-- Morning sessions
+- Afternoon sessions
   - Hiking (typically groups)
   - Mountain biking (typically groups)
   - Workshops (Be creative and bold and try experiments that might meet

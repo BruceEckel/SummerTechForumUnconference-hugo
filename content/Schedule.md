@@ -3,8 +3,6 @@ title: Schedule
 weight: 40
 ---
 
-- Outdoor activities will be in the morning, sessions in the afternoon (when it often rains)
-
 **Pre-conference**: If you arrive early, post something on Slack. If I or others
 are around and available, we might be able to come out for meals or other
 activities.
@@ -17,10 +15,8 @@ weekend; informal gatherings have been known to happen.
 Sunday 6:00pm
 -------------
 
-Welcome Potluck Barbeque at Bruce's House (107 WhiteRock). Bring something to
-grill, cook, or share. There will be food, so if you're just getting into town
-and don't have time, or you're hopeless in the kitchen, just bring your
-favorite beverage.
+Welcome dinner at Bruce's House (107 WhiteRock). We'll have food, but if
+you have a favorite beverage you might want to bring that.
 
 Go to the corner of First and WhiteRock, and you'll see a building of four
 townhomes with solar panels on the roof. My unit is the furthest away from
@@ -29,27 +25,25 @@ have colorful lights on, as well.
 
 ***********************************
 
+> All Conference Sessions, Lightning Talks and the Hackday Showcase Lightning Talks are held at the Center for the Arts (CTA)
+
 Monday
 ------
 
 - **Breakfast** Post your plans on Slack if you want others to join you.
+  There will be coffee and toast bar at Bruce's house starting at 7:45am.
 
-- **Morning** [Morning Activities](/activities) + Lunch
+- **9am** CTA King Room \
+  Conference Overview \
+  Introduction to Open Spaces\
+  Initial talk topics and organization\
+  Session 1
 
-- **1:30pm** Session 1\
-Conference Overview\
-Introductions\
-How Open Spaces Works\
-Initial talk topics and organization\
-Session
+- **11:10-12:00** Session 2
 
-- **4:00pm-4:30pm** Break
+- **Afternoon** Lunch/free time/[Afternoon Activities](/afternoon)
 
-- **4:30pm-5:30pm** Session 2
-
-- **Evening** Groups go to dinner or house meals
-
-- **8pm** [Lightning Talks](https://www.summertechforum.com/lightningtalks) at the Parish Hall (Public welcome)
+- **Evening** Banquet at [Crested Butte Museum](https://crestedbuttemuseum.com/)
 
 - **Followed by:** Games and hanging out at rental houses
 
@@ -59,22 +53,23 @@ Tuesday
 -------
 
 - **Breakfast** Post your plans on Slack if you want others to join you.
+  There will be coffee and toast bar at Bruce's house starting at 7:45am.
 
-- **Morning** [Morning Activities](/activities) + Lunch
+- **9-9:50am** Session 3
 
-- **1:30pm-2:30pm** Session 3
+- **9:50-10:20** Break
 
-- **2:30pm-3:00pm** Break
+- **10:20-11:10** Session 4
 
-- **3:00pm-4:00pm** Session 4
+- **11:10-11:40** Break
 
-- **4:00pm-4:30pm** Break
+- **11:40-12:30** Session 5
 
-- **4:30pm-5:30pm** Session 5
+- **Afternoon** Lunch/free time/[Afternoon Activities](/afternoon)
 
-- **Evening** Groups go to dinner or house meals
+- **Evening** Groups go to dinner or informal barbecue at Bruce's
 
-- **8pm** [Lightning Talks](https://www.summertechforum.com/lightningtalks) at the Parish Hall (Public welcome)
+- **8pm** [Lightning Talks](/lightning), CTA King Room (Public Welcome)
 
 - Form groups for Hackathon day
 
@@ -88,11 +83,11 @@ Wednesday: Hackathon day
 **Hackathon projects usually take place in rental houses, at Bruce's house, or
 at [Evolve Coworking](https://www.evolvework.co/)**
 
-[Hackathon Day Details](https://www.summertechforum.com/hackathon/)
+[Hackathon Day Details](/hackathon)
 
-- **Evening** Groups go to dinner or house meals
+- **Evening** Groups go to dinner or informal barbecue at Bruce's
 
-- **8pm** Hackathon Showcase Lightning Talks at the Parish Hall (Public welcome)
+- **8pm** Hackathon Showcase Lightning Talks, CTA King Room (Public Welcome)
 
 - **Followed by:** Games and hanging out at rental houses
 
@@ -102,22 +97,21 @@ Thursday
 --------
 
 - **Breakfast** Post your plans on Slack if you want others to join you.
+  There will be coffee and toast bar at Bruce's house starting at 7:45am.
 
-- **Morning** [Morning Activities](/activities) + Lunch
+- **9-9:50am** Session 6
 
-- **1:30pm-2:30pm** Session 6
+- **9:50-10:20** Break
 
-- **2:30pm-3:00pm** Break
+- **10:20-11:10** Session 7
 
-- **3:00pm-4:00pm** Session 7
+- **11:10-11:40** Break
 
-- **4:00pm-4:30pm** Break
+- **11:40-12:30** Session 8
 
-- **4:30pm-5:30pm** Session 8
+- **Afternoon** Lunch/free time/[Afternoon Activities](/afternoon)
 
-- **Evening** Progressive Dinner at Rental Houses
-
-- (Possibly) "Greased" lightning talks
+- **8pm** [Lightning Talks](/lightning), CTA King Room (Public Welcome)
 
 - **Followed by:** Games and hanging out at rental houses
 
@@ -127,20 +121,23 @@ Friday
 ------
 
 - **Breakfast** Post your plans on Slack if you want others to join you.
+  There will be coffee and toast bar at Bruce's house starting at 7:45am.
 
-- **Morning** [Morning Activities](/activities) + Lunch
+- **9-9:50am** Session 9
 
-- **1:30pm-2:30pm** Session 9
+- **9:50-10:20** Break
 
-- **2:30pm-3:00pm** Break
+- **10:20-11:10** Session 10
 
-- **3:00pm-4:00pm** Session 10
+- **11:10-11:40** Break
 
-- **4:00pm-4:30pm** Break
+- **11:40-12:30** Closing Session, CTA King Room
 
-- **4:30pm-5:30pm** Closing Session
+- **Afternoon** Lunch/free time/[Afternoon Activities](/afternoon)
 
-- Evening event TBA
+- **Evening** Progressive Dinner at Rental Houses
+
+- **Followed by:** Games and hanging out at rental houses
 
 ***********************************
 

@@ -11,16 +11,17 @@ hiking, mountain biking, and other outdoor activities in the summer.<br/><br/>
 <a href="https://photos.app.goo.gl/d3a4TfH1sHSH2vfu8" target="_blank">Photos</a>
 </div>
 
-We hold the event [in town](/venue), and free buses run up to the ski mountain
-every 15 minutes.
+We hold the event [in town at the Center for the Arts](https://crestedbuttearts.org/plan/directions/).
+Free buses run up to the ski mountain every 15 minutes.
 
+Try to stay downtown and not on the mountain, so you can just walk everywhere.
 - [Travel details](/travel)
 - [Lodging details](/lodging)
 
 [This site](http://www.downtowncrestedbutte.com/) is probably the most
 well-maintained reference to hotels and restaurants in downtown Crested Butte
-(where we hold the event -- note that you should try to stay downtown and not on
-the mountain, so you can just walk everywhere). This site only lists hotel-style
+(where we hold the event—note that you should try to stay downtown and not on
+the mountain, so you can walk everywhere). This site only lists hotel-style
 lodging; there are numerous AirB&B's and VRBO-style spaces available.
 
 High-speed Internet is available in the conference location and at
