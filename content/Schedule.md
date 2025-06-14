@@ -12,11 +12,10 @@ weekend; informal gatherings have been known to happen.
 
 ***********************************
 
-Sunday 6:00pm
+Sunday Evening
 -------------
 
-Welcome dinner at Bruce's House (107 WhiteRock). We'll have food, but if
-you have a favorite beverage you might want to bring that.
+Welcome hangout at Bruce's House (107 WhiteRock).
 
 Go to the corner of First and WhiteRock, and you'll see a building of four
 townhomes with solar panels on the roof. My unit is the furthest away from
