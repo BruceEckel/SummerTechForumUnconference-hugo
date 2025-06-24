@@ -64,7 +64,7 @@ Tuesday
 
 - **Afternoon** Lunch/free time/[Afternoon Activities](/afternoon)
 
-- **Evening** Groups go to dinner or informal barbecue at Bruce's
+- **Evening** Groups go to dinner 
 
 - **8pm** [Lightning Talks](/lightning), CTA King Room (Public Welcome)
 
@@ -82,7 +82,7 @@ at [Evolve Coworking](https://www.evolvework.co/)**
 
 [Hackathon Day Details](/hackathon)
 
-- **Evening** Groups go to dinner or informal barbecue at Bruce's
+- **Evening** Groups go to dinner 
 
 - **8pm** Hackathon Showcase Lightning Talks, CTA King Room (Public Welcome)
 
