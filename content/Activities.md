@@ -17,12 +17,12 @@ There are many hikes available and I often lead some. Here are some basic easy h
 - Around Lake Irwin: relatively flat, beautiful scenery. Good for a first hike when
   you're not sure how the altitude will affect you.
 - The far end of the lower loop, starting at Gunsight Pass Bridge.
-- The top of Mt. Crested Butte, taking the ski lift up from the bottom.
+- The top of Mt. Crested Butte, taking the ski lift from the bottom.
 - Copper Creek, starting just past Gothic.
 
 ## **Other Outdoor Activities**
 
-- Mountain biking. Crested Butte is famous for their trails and they come in all levels.
+- Mountain biking. Crested Butte is famous for their trails, and they come in all levels.
 - Float down the Gunnison River starting at Garlic Mike's.
 - Fishing
 - Stand-Up Paddleboarding

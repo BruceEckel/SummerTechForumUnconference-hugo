@@ -39,7 +39,7 @@ Monday
 
 - **11:10-12:00** Session 2
 
-- **Afternoon** Lunch/free time/[Afternoon Activities](/afternoon)
+- **Afternoon** Lunch/free time/[Afternoon Activities](/Activities)
 
 - **Evening** Banquet at [Crested Butte Museum](https://crestedbuttemuseum.com/)
 
@@ -62,11 +62,11 @@ Tuesday
 
 - **11:40-12:30** Session 5
 
-- **Afternoon** Lunch/free time/[Afternoon Activities](/afternoon)
+- **Afternoon** Lunch/free time/[Afternoon Activities](/Activities)
 
 - **Evening** Groups go to dinner 
 
-- **8pm** [Lightning Talks](/lightning), CTA King Room (Public Welcome)
+- **8pm** [Lightning Talks](/LightningTalks), CTA King Room (Public Welcome)
 
 - Form groups for Hackathon day
 
@@ -105,11 +105,11 @@ Thursday
 
 - **11:40-12:30** Session 8
 
-- **Afternoon** Lunch/free time/[Afternoon Activities](/afternoon)
+- **Afternoon** Lunch/free time/[Afternoon Activities](/Activities)
 
 - **Evening** Groups go to dinner
 - 
-- **8pm** [Lightning Talks](/lightning), CTA King Room (Public Welcome)
+- **8pm** [Lightning Talks](/LightningTalks), CTA King Room (Public Welcome)
 
 - **Followed by:** Games and hanging out at rental houses
 
@@ -130,7 +130,7 @@ Friday
 
 - **11:40-12:30** Closing Session, CTA King Room
 
-- **Afternoon** Lunch/free time/[Afternoon Activities](/afternoon)
+- **Afternoon** Lunch/free time/[Afternoon Activities](/Activities)
 
 - **Evening** Progressive Dinner at Rental Houses
 
@@ -145,4 +145,4 @@ Saturday Morning Potluck Breakfast at Bruce's house
 
 - If you don't have extra food, don't buy more. We always have lots.
 
-- Airport shuttles & group drivers can pick you up there (tell them 107 White Rock).
+- Airport shuttles and group drivers can pick you up there (tell them 107 White Rock).
