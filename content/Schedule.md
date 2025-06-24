@@ -107,6 +107,8 @@ Thursday
 
 - **Afternoon** Lunch/free time/[Afternoon Activities](/afternoon)
 
+- **Evening** Groups go to dinner
+- 
 - **8pm** [Lightning Talks](/lightning), CTA King Room (Public Welcome)
 
 - **Followed by:** Games and hanging out at rental houses
