@@ -16,9 +16,21 @@ Organized by Bruce Eckel<br/>
   7th and the morning of the 13th.
 
 <br/>
-<div style="text-align:center; font-size:175%; font-weight:bold; border: 2px solid green; padding: 1em; border-radius: 0.5em;">
-  <a href="/registration">Registration</a>
+<div style="text-align:center;">
+  <a href="/registration" style="
+    display: inline-block;
+    padding: 0.5em 1em;
+    font-size: 175%;
+    font-weight: bold;
+    color: green;
+    border: 2px solid green;
+    border-radius: 0.5em;
+    text-decoration: none;
+  ">
+    Registration
+  </a>
 </div>
+
 
 - If you've previously attended a Crested Butte event and need a break on the
   fee, <a href="/contact">make a request</a>. Don't let the fee be the reason
