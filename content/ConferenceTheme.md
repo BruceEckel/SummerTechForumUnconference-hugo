@@ -7,19 +7,19 @@ Although the theme sets the general tone of the conference, it doesn't
 preclude session topics that might be considered "off theme." The goal
 of the theme is to stimulate ideas, not to prevent discussion.
 
-Software Reliability
---------------------
+Of Course it's AI
+-----------------
 
-We've made dramatic advances in many areas of software development, but reliability
-seems like it's the last to gain focus---probably because the topic is so challenging.
+- MCP
+- As an assistant: how can it help, where does it get in the way?
+- What can we build with it right now?
+- What kinds of AI can we create now, and what kind do we need to create?
+- Where might it go?
+  - AI Management (can we make management invisible?)
+  - What will your personal AI do?
+  - AI in new and surprising places (therapy, decision-making, government)
+  - How will our culture change?
 
-- What are the different aspects of reliability?
-- What have we tried that hasn't worked?
-- What needs to change before we start taking it seriously?
-- Are reliability and security connected?
-- How can type systems relate to reliability?
-- What architectures support reliability?
-- What are new ways to think about this problem (Such as Erlang/Elixir and Scala3/ZIO2)?
 
 Recent Topics
 -------------
@@ -60,6 +60,13 @@ Here are session topics from recent conferences, created by attendees:
 - Where are your commits deployed?
 - Women's Experiences in Tech
 - Working Remote
+- What are the different aspects of reliability?
+- What have we tried that hasn't worked?
+- What needs to change before we start taking it seriously?
+- Are reliability and security connected?
+- How can type systems relate to reliability?
+- What architectures support reliability?
+- What are new ways to think about this problem (Such as Erlang/Elixir and Scala3/ZIO2)?
 
 You can also create morning workshops.
 
