@@ -17,7 +17,7 @@ rentals, etc.
 Step 2: [Payment](https://link.waveapps.com/9jsucr-uwqgzh)
 
 Step 3: Print and sign the [Activity Release Form](/release-form) and bring it with you (Forms will also be available on site)
-
+</br></br>
 <figure>
   <img src="/images/Summer_Tech_Forum_QRCode.png" alt="QR Code for Payment">
   <figcaption>QR Code for Payment</figcaption>
