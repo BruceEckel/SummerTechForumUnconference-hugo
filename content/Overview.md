@@ -15,15 +15,14 @@ Organized by Bruce Eckel<br/>
 - When scheduling, remember [there are events](/schedule) the afternoon of the
   7th and the morning of the 13th.
 
-<!--
+<br/>
+<div style="text-align:center; font-size:175%; font-weight:bold; border: 2px solid green; padding: 1em; border-radius: 0.5em;">
+  <a href="/registration">Registration</a>
+</div>
+
 - If you've previously attended a Crested Butte event and need a break on the
   fee, <a href="/contact">make a request</a>. Don't let the fee be the reason
   you can't attend.
--->
-<br/>
-<div style="text-align:center;font-size:175%;font-weight:bold">
-<a href = "/registration">Registration</a>
-</div>
 
 <hr style="border: 0; border-top: 5px solid;">
 
