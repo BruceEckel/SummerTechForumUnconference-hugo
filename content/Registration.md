@@ -18,7 +18,7 @@ Step 2: [Payment](https://link.waveapps.com/9jsucr-uwqgzh)
 
 Step 3: Print and sign the [Activity Release Form](/release-form) and bring it with you (Forms will also be available on site)
 
-![QR Code for Payment](/images/Summer_Tech_Forum_QRCode.png)
+[QR Code for Payment](/images/Summer_Tech_Forum_QRCode.png)
 
 ----------------------------------------------------------
 
