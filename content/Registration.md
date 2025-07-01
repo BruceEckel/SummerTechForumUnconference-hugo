@@ -21,7 +21,7 @@ Step 3: Print and sign the [Activity Release Form](/release-form) and bring it w
 <figure style="text-align: center; margin: 2em 0;">
   <img src="/images/Summer_Tech_Forum_QRCode.png" alt="QR Code for Payment" style="max-width: 100%; height: auto;">
   <figcaption style="margin-top: 0.5em; font-style: italic; color: #555;">
-    Scan the QR code to complete your payment.
+    QR Code for Payment
   </figcaption>
 </figure>
 
