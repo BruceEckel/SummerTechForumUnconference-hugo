@@ -5,7 +5,7 @@ weight: 140
 
 # The 2025 STFU has been changed to a Developer Retreat
 
-See Slack for details
+## See [Slack](https://join.slack.com/t/wtfconf/shared_invite/enQtNDk5MjUyMTc4MjkxLWUzMjkxNDM1MGM3MDU2MDJhYTRlODY5MjljOWNlYmQyMmNkMGRmMzlhMWE1ZmQ4NmIyY2JmODhkNWI0NDIyM2Y) for details
 
 <!-- 
 
