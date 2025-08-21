@@ -5,7 +5,7 @@ weight: 140
 
 # The 2025 STFU has been changed to a developer retreat
 
-{{/*
+<!-- 
 
 *Price does not include optional activities.
 
@@ -29,7 +29,7 @@ Step 3: Print and sign the [Activity Release Form](/release-form) and bring it w
   </figcaption>
 </figure>
 
-*/}}
+-->
 
 ----------------------------------------------------------
 
